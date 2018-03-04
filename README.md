@@ -1,6 +1,7 @@
 # Pima CC CIS278 Week #11 
 ## Exercise  9.23 on page 444
 ### Card Shuffling and Dealing
+C++ How to Program, 10/e, Deitel
 
 Create a program to shuffle and deal a deck of cards. The program should consist of class Card, class DeckofCards and a driver program. Class Card should provide:
 * Data members face and suit—use enumerations to represent the faces and suits.
